@@ -8,6 +8,7 @@ Features
 •	Includes preprocessing, augmentation, training, and evaluation scripts.
 •	Detailed performance analysis across multiple metrics.
 Project Structure
+
 Skin-Cancer-Detection-using-GCN-CNN-Hybrid-Models/
 │
 ├── data/                   # Dataset storage (add instructions for download)
