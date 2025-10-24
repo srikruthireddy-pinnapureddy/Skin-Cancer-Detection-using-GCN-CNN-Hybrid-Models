@@ -92,4 +92,7 @@ Applications
 •	Early and accurate detection of skin cancer from medical images.
 
 •	Supports clinical decision-making with automated diagnosis tools.
+
+<img width="819" height="460" alt="skin_cancer_output" src="https://github.com/user-attachments/assets/f6673625-97dc-495f-88d4-c82702652688" />
+
  
